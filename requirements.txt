@@ -1,0 +1,3 @@
+pandas
+numpy
+gephi (external visualization tool)
